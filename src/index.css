@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#LoginFormStyle {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 20px;
+  background-color: #EEEE;
+}
+
+h3 {
+  text-decoration: solid;
+  color: black;
+  font-size: 30px;
+}
+
+.nav-link {
+  text-decoration: underline;
+}
